@@ -1,6 +1,6 @@
-#SCRIPT BY TH3_L3G3ND_FAISAL
+#SCRIPT BY TH3_L3G3ND_SHAKIL
 #FB ID SHAKIL
-#FACEBOOK.COM/rodlaxhis
+#https://www.facebook.com/mdshakilislam.4321
 
 W = '\033[97;1m'
 R = '\033[91;1m'
@@ -400,11 +400,11 @@ logo = """
           
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••• 
 \x1b[1;90m[+] 𝗔𝗨𝗧𝗛𝗢𝗥     :   SHAKIL
-\x1b[1;91m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞   :    SHAKIL
-\x1b[1;92m[+] 𝗚𝗜𝗧𝗛𝗨𝗕      :   SHAKIL
-\x1b[1;98m[+] VERSION        :   1.01
-\x1b[1;93m[+] 𝗧𝗘𝗔𝗠        :   \33[1;42  SHAKIL TEAM\33[0m
-\x1b[1;94m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡     :\x1b[1;97m  0.1.6    \x1b[1;97m          
+\x1b[1;91m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞   :   SHAKIL
+\x1b[1;92m[+] 𝗚𝗜𝗧𝗛𝗨𝗕     :    SHAKIL
+\x1b[1;98m[+] VERSION     :   1.01
+\x1b[1;93m[+] 𝗧𝗘𝗔𝗠       :   \33[1;42  SHAKIL TEAM\33[0m
+\x1b[1;94m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡     :\x1b[1;97m  1.1.4    \x1b[1;97m          
 \033[1;80m•••••••••••••••••••••••••••••••••••••••••••••• 
 """
 
@@ -418,12 +418,12 @@ class Main:
 		print(logo)
 		print("")
 		print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -")
-		print("\033[1;37mNOTE : APPROVAL K LIYE FACEBOOK PR FOLLOW KR DEN")
+		print("\033[1;37mNOTE : Approval Key WhatsApp Knock Me")
 		print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ")
 
 
 		print("")
-		print("\033[1;37m [1] First Send Friend Request  ")
+		print("\033[1;37m [1] Approval Key Request  ")
 		print("\033[1;37m [2] EXIT")
 		print("")
 		Baloch = input("\n\033[1;37m  Choose : \033[1;32m")
@@ -433,20 +433,20 @@ class Main:
 			print("    Thanks♥️")
 			exit()
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/RODLAXHIS?mibextid=ZbWKwL")
+			os.system("xdg-open https://wa.link/yvbe7o?mibextid=ZbWKwL")
 			print("")
 			time.sleep(3.0)
-			print("\033[1;37m    CHECKING APPROVAL ")
+			print("\033[1;37m   Watting CHECKING APPROVAL ")
 			print("")
-			input("\n\033[1;37m TYPE THE OWNER FACEBOOK ACCOUNT NAME \033[1;37m")
+			input("\n\033[1;37m TYPE THE OWNER WhatsApp ACCOUNT NAME \033[1;37m")
 			time.sleep(3.1)
 			print("")
-			print("\033[1;32m WELCOME TO *TH3 L3G3ND RODLAXHIS X HAYAT WORLD*  TOOLS")
+			print("\033[1;32m WELCOME TO *Akash Choua Valobasha (Md Shakil Islam)*  TOOLS")
 			time.sleep(3.0)
 			os.system("clear")
 		print(logo)
 		print(" [+]CHOOSE METHOD")
-		print ("\033[1;36m           RODLAX X HAYAT WORLD")
+		print ("\033[1;36m           Akash Choua Valobasha (Md Shakil Islam)")
 		print("\033[1;37m- - - - - - - - - - - - - - - - - - - - - - - - - - -")
 		print(" \033[1;32m[1]\033[0;92m File Cloning ")
 		print(" \033[1;32m[2] Public Cloning")
@@ -460,7 +460,7 @@ class Main:
 		if UZAIR in ["2", "02"]:
 			Public()
 		if UZAIR in ["3", "03"]:
-			os.system("python RODLAXHIS.py")
+			os.system("python MdShakilIslam.py")
 		if UZAIR in ["4", "04"]:
 			self.old()
 		if UZAIR in ["5", "05"]:
@@ -509,7 +509,7 @@ class Main:
 		"Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefoxversion;]"
 		])
 		sys.stdout.write(
-			"\r [+]%s> /[CRACK]>%s -> [OK]:-%s - [CP]:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [+]%s> /[Akash Choua Valobasha]>%s -> [SHAKIL-OK]:-%s - [CP]:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
@@ -940,7 +940,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 	])
 		sys.stdout.write(
-			"\r [+]>%s/[CRACK]>%s -> [OK]:-%s - [CP]:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [+]>%s/[Akash Choua Valobasha]>%s -> [SHAKIL-OK]:-%s - [CP]:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
